@@ -1,0 +1,8 @@
+Ressources : 
+
+-Official Website: https://www.jhipster.tech
+-JHipster with a Microservice Architecture: http://www.baeldung.com/jhipster-microservices 
+-https://github.com/oktadeveloper/jhipster-microservices-example/blob/master/TUTORIAL.md 
+-PPT: https://www.jfokus.se/jfokus16/preso/Hands-on-Lab--JHipster--The-best-way-to-breed-a-new-webapp.pdf 
+-Video: Jhipster Tutorial | Crud Application Java : Creating an Entity using jhipster - https://www.youtube.com/watch?v=rPiJSIeFgtE 
+-Video: Full Stack App from Scratch - JHipster - 03 - https://www.youtube.com/watch?v=NdcnpD-GpZ4 

@@ -1,0 +1,11 @@
+Outils : 
+●	Any IDE or text editor
+●	Generator-jhipster : yarn global add generator-jhipster
+●	node.js from http://nodejs.org
+●	Java from http://www.oracle.com/technetwork/java/javase/downloads/index.html 
+●	Git from https://git-scm.com 
+●	yeoman
+●	JDL-Studio https://start.jhipster.tech/jdl-studio/
+●	Install yarn using  Yarn installation instructions from https://yarnpkg.com/en/docs/install#windows-stable 
+●	Run the following command to install Yeoman 'yarn global add yo' 
+●	Run the following command to install JHipster 'yarn global add generator-jhipster' 
